@@ -1,0 +1,25 @@
+{
+  "title": "Hazuki-sensei no Hatsujouki",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1656966782",
+      "groups": {
+        "": "321339"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1656966801",
+      "groups": {
+        "": "371423"
+      }
+    }
+  }
+}
